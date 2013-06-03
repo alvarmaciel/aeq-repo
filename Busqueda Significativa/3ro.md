@@ -28,8 +28,8 @@ características y objetivos del sitio web donde se publican los contenidos
 * Después de analizar los datos anteriores, cree uste d que éste Sitio Web está bien respaldado, no tiene intereses comerciales, y puede ofrecer información confiable que se ajuste a la que está buscando para su investigación?
 
 ### Listado de chequeos
-+ (http://www.eduteka.org/pdfdir/ListaChequeo1.pdf)
-* (http://www.eduteka.org/pdfdir/ListaChequeo2.pdf)
++ http://www.eduteka.org/pdfdir/ListaChequeo1.pdf
+* http://www.eduteka.org/pdfdir/ListaChequeo2.pdf
 
 ## Secuencia
 
@@ -44,7 +44,6 @@ La búsqueda se hará usando el navegador **Firefox** . En cada mesa de trabajo 
 * ¿Entienden de qué trata la página?
 * La información que tiene, ¿sirve para responder a los objetivos de la clase?
 * ¿Qué tipo de página es?
-* ¿?
 
 ### Evaluación de los resultados:
 Con el proyector se irán relevando las páginas que sugieren los chicos y acotando la selección. 
@@ -55,8 +54,8 @@ Una vez elegidas las páginas se podrá:
 3. Tomar apuntes de las páginas para una futura producción
 
 ## Fuentes
-+ (http://www.eduteka.org/Tema9.php)
-+ (http://www.eduteka.org/pdfdir/CMIListaCriteriosEvaluarFuentes.php)
-+ (http://www.eduteka.org/pdfdir/ListaChequeo2.php)
-+ (http://www.eduteka.org/pdfdir/ListaChequeo1.php)
-+ (http://www.eduteka.org/profeinvitad.php3?ProfInvID=0009)
++ http://www.eduteka.org/Tema9.php
++ http://www.eduteka.org/pdfdir/CMIListaCriteriosEvaluarFuentes.php
++ http://www.eduteka.org/pdfdir/ListaChequeo2.php
++ http://www.eduteka.org/pdfdir/ListaChequeo1.php
++ http://www.eduteka.org/profeinvitad.php3?ProfInvID=0009
