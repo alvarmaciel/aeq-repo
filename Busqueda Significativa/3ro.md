@@ -49,13 +49,16 @@ para su investigación?
 ### Listado de chequeos
 + (http://www.eduteka.org/pdfdir/ListaChequeo1.pdf)
 * (http://www.eduteka.org/pdfdir/ListaChequeo2.pdf)
+
 ## Secuencia
+
 ### Inicio:
 La clase comienza con el docente comentando para qué se realizará la búsqueda de información y qué tipo de información se buscará. Esto permitirá
 explicitar y registrar los criterios de búsqueda. Se trata de poder pensar y elegir entre todos las palabras claves que se van a usar para la búsqueda y qué tipo de páginas e información sirven. El registro se puede realizar en el pizarrón.
 
 ### Búsqueda:
 La búsqueda se hará usando el navegador **Firefox** . En cada mesa de trabajo tendrán que elegir tres de las paginas que aparecen en la búsqueda usando los criterios que establecimos y anotando el título y la dirección en el cuaderno. La actividad se puede realizar con una computadora por estudiante o con una computadora por mesa. Antes de la puesta en común en el grado, tendrán que discutir cuáles serán las páginas que mostraran a todo el grupo y por qué.
+
 #### Preguntas orientadoras
 * ¿Entienden de qué trata la página?
 * La información que tiene, ¿sirve para responder a los objetivos de la clase?
