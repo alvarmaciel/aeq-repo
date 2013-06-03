@@ -1,4 +1,4 @@
 aeq-repo
 ========
 
-Reositorio de estrategias e ideas
+Repositorio de estrategias e ideas
