@@ -5,36 +5,28 @@ pone de manifiesto la urgencia para desarrollar en los estudiantes la
 habilidad en el manejo de ésta. La Competencia para el Manejo de la
 Informacion (CMI) se puede definir como la habilidad individual para:
 
-- Reconocer la necesidad de información;
+- Reconocer la necesidad de información
 - Identificar y localizar las fuentes de información adecuadas
-- Saber cómo llegar a la información dentro de esas fuentes;
-- Evaluar la calidad de la información obtenida;
-- Organizar la información;
-- Usar la información de forma efectiva;
+- Saber cómo llegar a la información dentro de esas fuentes
+- Evaluar la calidad de la información obtenida
+- Organizar la información
+- Usar la información de forma efectiva
 
-##Secuencia
-Inicio:
-En esta parte arrancas la clase vos contando para que vamos a buscar
-información que tipo de información necesitamos . Esto nos permitirá
-explicitar y anotar los criterios de bú
-squeda. Lo importante acá es
-poder pensar y elegir entre todos las palabras claves que vamos a usar
-para la búsqueda y que tipo de páginas e info nos sirven. esto lo
-ponemos en el pizarrón.
+## Secuencia
+### Inicio:
+La clase comienza con el docente comentando para qué se realizará la búsqueda de información y qué tipo de información se buscará. Esto permitirá
+explicitar y registrar los criterios de búsqueda. Se trata de poder pensar y elegir entre todos las palabras claves que se van a usar para la búsqueda y qué tipo de páginas e información sirven. El registro se puede realizar en el pizarrón.
 
-Búsqueda:
-La búsqueda la vamos a hacer usando firefox desde las maquinas (no
-usamos sugar) cada mesa (podemos darle una máquina a cada chico y que
-discutan entre ellos que páginas van a elegir) tendrán que elegir 3 de
-las paginas que aparecen en la búsqueda usando los criterios que
-establecimos y anotar el título y la dirección en el caderno.
+### Búsqueda:
+La búsqueda se hará usando el navegador **Firefox** . En cada mesa de trabajo tendrán que elegir tres de las paginas que aparecen en la búsqueda usando los criterios que establecimos y anotando el título y la dirección en el cuaderno. La actividad se puede realizar con una computadora por estudiante o con una computadora por mesa. Antes de la puesta en común en el grado, tendrán que discutir cuáles serán las páginas que mostraran a todo el grupo y por qué.
 
-Evaluación de los resultados:
-Con el proyector, vamos relevando las páginas que sugieren los chicos
-y acotando la selección. Una vez elegidas las páginas podemos:
-1) imprimir la info y que la trabjen luego con vos
-2) la clase que vine podemos tomar "apuntes" de las páginas para una
-futura producción
+### Evaluación de los resultados:
+Con el proyector se irán relevando las páginas que sugieren los chicos y acotando la selección. 
+
+Una vez elegidas las páginas se podrá:
+1. Seleccionar sólo tres del total de páginas halladas.
+2. Imprimir la información para usarla luego en el aula.
+3. Tomar apuntes de las páginas para una futura producción
 
 ## Fuentes
 + (http://www.eduteka.org/Tema9.php)
