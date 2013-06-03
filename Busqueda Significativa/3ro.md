@@ -2,7 +2,7 @@
 ## Fundamentación
 La gran cantidad de información actualmente disponible en Internet
 pone de manifiesto la urgencia para desarrollar en los estudiantes la
-habilidad en el manejo es ésta. La Competencia para el Manejo de la
+habilidad en el manejo de ésta. La Competencia para el Manejo de la
 Informacion (CMI) se puede definir como la habilidad individual para:
 
 - Reconocer la necesidad de información;
