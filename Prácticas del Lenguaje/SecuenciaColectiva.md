@@ -7,4 +7,4 @@
 + 7mo biografías como lectores.
 
 
-[^1] Tema elegido.
+[^1]: Tema elegido.	
