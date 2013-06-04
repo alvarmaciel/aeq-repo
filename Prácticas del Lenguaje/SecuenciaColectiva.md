@@ -41,3 +41,6 @@
   - Producción de los docentes.
   - Videos de nuestra producción.
   - Netbooks y proyector.
++ Proceso de trabajo:
+  - Observaciones participantes
+  - 
