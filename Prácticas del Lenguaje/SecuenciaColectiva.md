@@ -20,4 +20,4 @@
   - Apuntes
   - Textos expositivos de distintos manuales
 
-[1] Tema elegido.	
+[1]: Tema elegido.	
