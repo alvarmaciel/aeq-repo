@@ -2,12 +2,15 @@
 
 ## Posibles temas
 + 4to la noticia.
-+ **5to texto expositivo**.[1]
++ **5to texto expositivo**.[1][]
 + 6to texto de opinión.
 + 7mo biografías como lectores.
 
 ## Secuencia:
 + Tema: Revolución Industrial, pasaje de trabajo manual a trabajo industrial
+
+1. 
+
 + Fuentes: 
   - Relatos, testimonios
   - Imágenes y videos
