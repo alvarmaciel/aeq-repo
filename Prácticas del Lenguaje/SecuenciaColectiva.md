@@ -35,7 +35,11 @@
   - Imágenes y videos
   - Apuntes
   - Textos expositivos de distintos manuales
+
 + Recursos del proyecto:
-  - Cuadernillo
+  - Cuadernillo.
+  - Producción de los docentes.
+  - Videos de nuestra producción.
+  - Netbooks y proyector
 
 [1]: Tema elegido.	
