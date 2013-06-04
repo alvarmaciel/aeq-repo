@@ -32,7 +32,6 @@
   - Ejemplos
 
 + Fuentes: 
-  - Relatos, testimonios
   - Imágenes y videos
   - Apuntes
   - Textos expositivos de distintos manuales
