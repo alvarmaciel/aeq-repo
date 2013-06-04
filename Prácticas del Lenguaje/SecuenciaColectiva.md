@@ -13,7 +13,7 @@
 1. Presentación del tema. Con cuadernillo (Ellos tienen que construir textos que acompañarán imágenes de una suerte de librito para la biblioteca)
   - Clase expositiva con video tomado de apuntes como que sirvan como insumo a la hora de escribir.
 2. Lectura de textos expositivos de **Manuales** para analizar como están construidos.
-  - Se pueden ver algunos de los recursos.
+  - Se pueden ver algunos de los recursos. Leer como escritores.
 3. Lectura de texto expositvo más complejo y puntual del tema para construir un mapa conceptual colectivo.
   - TODO actividad de lectura en si misma.
 4. Presentación de nuestro proceso.
@@ -21,7 +21,7 @@
   - Video de nuestro trabajo.
   - Mapa Conceptual.
   - Texto Final individual
-  - correcciones.
+  - Correcciones.
 5. Actividad de escritura
   - TODO Consigna
 6. Revisión de texto.
