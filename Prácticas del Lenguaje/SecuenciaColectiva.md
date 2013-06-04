@@ -10,7 +10,7 @@
 + Tema: Revolución Industrial, pasaje de trabajo manual a trabajo industrial
 
 ## Etapas
-1. Presentación del tema. Con cuadernillo
+1. Presentación del tema. Con cuadernillo (Ellos tienen que construir textos que acompañarán imágenes de una suerte de librito para la biblioteca)
   - Clase expositiva con video tomado de apuntes como que sirvan como insumo a la hora de escribir.
 2. Lectura de textos expositivos de **Manuales** para analizar como están construidos
   - Se pueden ver algunos de los recursos
