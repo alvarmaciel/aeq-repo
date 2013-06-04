@@ -9,7 +9,10 @@
 ## Secuencia:
 + Tema: Revolución Industrial, pasaje de trabajo manual a trabajo industrial
 
-1. 
++ Recursos del texto explicativo
+  - Reformulación
+  - Definción
+  - Ejemplos
 
 + Fuentes: 
   - Relatos, testimonios
