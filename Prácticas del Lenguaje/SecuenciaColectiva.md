@@ -11,8 +11,20 @@
 
 ## Etapas
 1. Presentación del tema. Con cuadernillo
-
-
+  - Clase expositiva con video tomado de apuntes como que sirvan como insumo a la hora de escribir.
+2. Lectura de textos expositivos de **Manuales** para analizar como están construidos
+  - Se pueden ver algunos de los recursos
+3. Lectura de texto expositvo más complejo y puntual del tema para construir un mapa conceptual colectivo
+  - TODO actividad de lectura en si misma
+4. Presentación de nuestro proceso.
+  - Fotos
+  - Video de nuestro trabajo
+  - Mapa Conceptual
+  - Texto Final individual
+  - correcciones
+5. Actividad de escritura
+  - TODO Consigna
+6. Revisión de texto.
 
 + Recursos del texto explicativo
   - Reformulación
