@@ -2,7 +2,7 @@
 
 ## Posibles temas
 + 4to la noticia.
-+ **5to texto expositivo**.
++ **5to texto expositivo**.[1]
 + 6to texto de opinión.
 + 7mo biografías como lectores.
 
@@ -44,3 +44,5 @@
 + Proceso de trabajo:
   - Observaciones participantes
   - 
+
+[1]: Nota al pie
