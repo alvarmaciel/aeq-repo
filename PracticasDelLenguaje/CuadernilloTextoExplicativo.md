@@ -6,7 +6,7 @@
 
 ## El texto explicativo: “Del taller a la fábrica”
 
-![Fabricas](https://github.com/alvarmaciel/aeq-repo/blob/master/PracticasDelLenguaje/Imagenes/fabricas.png "Fabricas")
+![Fabricas](PracticasDelLenguaje/Imagenes/fabricas.png "Fabricas")
 
 ### Introducción?
 
