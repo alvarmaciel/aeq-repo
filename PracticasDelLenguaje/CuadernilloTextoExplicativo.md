@@ -6,7 +6,7 @@
 
 ## El texto explicativo: “Del taller a la fábrica”
 
-![Fabricas](PracticasDelLenguaje/Imagenes/fabricas.png "Fabricas")
+![](http://www.ite.educacion.es/formacion/materiales/131/material/modulo_1/30222__158_a_1.jpg "Fabricas")
 
 ### Introducción?
 
