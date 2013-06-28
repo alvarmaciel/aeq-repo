@@ -7,4 +7,4 @@ Una de las diferencias entre el trabajo artesanal y el trabajo en las fábricas 
 
 Esta realción integral entre el trabajdor artesanal con el su obra y la realción segmentada del trabajador fabril con el producto implica también que ahora los conocimientos necesarios para trabajar cambian. El trabajador artesanal ha de concer todo sobre el producto, el trabajadore fabril sólo aquella parte de la producción en la que trabaja.
 
-La revolución industrial va a dar origen así a un nuevo tipo de trabajo: el trabajo fabril; un nuevo tipo de trabajador e
+La revolución industrial va a dar origen así a un nuevo tipo de trabajo: el **trabajo fabril**; un nuevo tipo de trabajador el **obrero industrial**, y a un nuevo tipo de organización social: **el capitalismo**
