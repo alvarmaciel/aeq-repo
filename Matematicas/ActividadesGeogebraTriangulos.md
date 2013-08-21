@@ -1,5 +1,5 @@
 # Actividades para trabajar triángulos con Geogebra
-
+## Secuencia más comentarios 
 ### Actividad 1
 
 Construir un dibujo en la computadora, siguiendo estas instrucciones:
