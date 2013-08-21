@@ -22,7 +22,7 @@ Construyan las siguientes figuras.
 ### Actividad 3
 
 1. Dibujen una recta con un punto **c** y un punto **P** que no esté en ella.
-2. Luego tracen una recta paralela a **c** que pase por **P** y otra recta perpendicular a ###c### que pase por ###P###.
+2. Luego tracen una recta paralela a **c** que pase por **P** y otra recta perpendicular a **c** que pase por **P**.
 3. Indiquen acá los pasos que hicieron para completar la actividad.
 
 
