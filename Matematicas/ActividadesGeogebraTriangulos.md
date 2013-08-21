@@ -14,6 +14,14 @@ Construir un dibujo en la computadora, siguiendo estas instrucciones:
 Esta actividad puede ser usada como rompehielos para explorar el programa.
 Hay varias formas de construir este dibujo pero escasas las que permiten consevar la relación entre el segmento AB y el radio de la circunferencia.
 #### resoluciones posibles
+1. Segmento de longitud fija + circunferencia dado su radio
+   1. Segmento de longitud fija
+   2. Circunfrencia dado su centro y su radio
+   3. Otorgar al radio el nombre del segmento (a)
+2. Segmento + compás
+   1. Segmento común
+   2. Compás
+   3. Elegir el radio (puntos extremos del segmento o el segmento) y luego el radio
 
 ### Actividad 2
 
