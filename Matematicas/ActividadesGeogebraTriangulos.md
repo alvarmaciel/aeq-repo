@@ -1,5 +1,5 @@
 # Actividades para trabajar triángulos con Geogebra
-## Secuencia más comentarios 
+## Secuencia con comentarios y resoluciones posibles
 ### Actividad 1
 
 Construir un dibujo en la computadora, siguiendo estas instrucciones:
@@ -10,6 +10,10 @@ Construir un dibujo en la computadora, siguiendo estas instrucciones:
 
 ¿Es cierto que si cambia la longitud del segmento AB, cambia la circunferencia? 
 
+### Comentarios
+Esta actividad puede ser usada como rompehielos para explorar el programa.
+Hay varias formas de construir este dibujo pero escasas las que permiten consevar la relación entre el segmento AB y el radio de la circunferencia.
+#### resoluciones posibles
 
 ### Actividad 2
 
