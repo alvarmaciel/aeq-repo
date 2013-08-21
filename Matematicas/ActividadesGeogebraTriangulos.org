@@ -1,6 +1,6 @@
 * Actividades para trabajar triángulos con Geogebra
 
-** Exploratorias                                              :WAITING:HOLD:
+** Exploratorias
 - Construcción de figuras sencillas para explorar el programa
 - Registro de los pasos de la construcción
 - Comparación de las construcciones
@@ -26,10 +26,7 @@ Construir un dibujo en la computadora, siguiendo estas instrucciones:
 
 ** Actividad 2
 Construyan las siguientes figuras. 
-[[file:recursos/ryc7mo/circulos1.png]]
-
-[[file:recursos/ryc7mo/circulos2.png]]
-
+<a href="http://www.flickr.com/photos/alvarmaciel/8723482246/" title="circulos1 por alvarmaciel, en Flickr"><img src="http://farm8.staticflickr.com/7435/8723482246_affc3802b8.jpg" width="500" height="328" alt="circulos1"></a>
 
 ** Actividad 3
 Dibujen una recta con un punto *c* y un punto *P* que no esté en ella.
