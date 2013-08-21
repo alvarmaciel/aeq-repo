@@ -1,0 +1,108 @@
+* Actividades para trabajar triángulos con Geogebra
+
+** Exploratorias
+- Construcción de figuras sencillas para explorar el programa
+- Registro de los pasos de la construcción
+- Comparación de las construcciones
+
+** Resolución de problemas
+- Resolución de problemas orientadas a la Comunicación de las resoluciones
+- Resolución de problemas orientada a la Argumentación de las resoluciones
+
+** Validación de hipótesis
+- ¿?
+- ¿?
+
+** Actividad 1
+
+Construir un dibujo en la computadora, siguiendo estas instrucciones:
+
+- Trazar un segmento con vértices A y B.
+- Dibujar un punto C que no pertenezca al segmento.
+- Construir una circunsferencia de centro C y radio AB
+
+¿Es cierto que si cambia la longitud del segmento AB, cambia la circunferencia? 
+
+
+** Actividad 2
+Construyan las siguientes figuras. 
+<a href="http://www.flickr.com/photos/alvarmaciel/8723482246/" title="circulos1 por alvarmaciel, en Flickr"><img src="http://farm8.staticflickr.com/7435/8723482246_affc3802b8.jpg" width="500" height="328" alt="circulos1"></a>
+
+** Actividad 3
+Dibujen una recta con un punto *c* y un punto *P* que no esté en ella.
+Luego tracen una recta paralela a *c* que pase por *P* y otra recta perpendicular a *c* que pase por *P*.
+Indiquen acá los pasos que hicieron para completar la actividad.
+
+
+** Actividad 4
+- Construyan la siguiente figura:
+
+[[file:recursos/ryc7mo/triangulo1.png]]
+
+- Muevan los vétices del triángulo y analicen por qué cambian algunos elementos y otros no.
+
+
+** Actividad 5
+- Construyan un triángulo equilátero, de manera que , al mover cualquiera de sus elementos, siga siendo equilátero.
+- ¿Cuántos distintos se pueden hacer? 
+
+
+** Actividad 6
+- Dibujen un segmento y construyan un ángulo de 60º usando ese segmento como lado.
+- Registren los comandos que utilizaron para la construcción
+
+
+** Actividad 7
+
+- Dibujen un segmento AB.
+- Con vértice en A construyan un ángulo de 90º, usando como lado el segmento AB.
+- Sobre el dibujo anterior construyan un ángulo de 60º que tenga al segmento AB como lado y vértice b.
+- Registren los comandos que utilizaron para la construcción.
+
+
+** Actividad 8
+
+- Dibujen tres segmentos distintos y construyan con ellos un triángulo.
+
+Respondan las siguientes preguntas, y luego comprueben sus respuestas con la computadora:
+
+- ¿Con cualquier trío de segmentos es posible la construcción?
+- ¿Por qué?
+
+** Actividad 9
+
+- Indiquen las medidas de tres segmentos con los cuales estén seguros de que se puede construir un triángulo acutángulo.Expliquen también cómo hacen para asegurar que se puede construir.
+- Indiquen las medidas de tres segmentos con los cuales estén seguros de que se puede construir un triángulo obtusángulo.Expliquen también cómo hacen para asegurar que se puede construir.
+
+Luego de responder los puntos 1 y 2 de la "actividad 9", constrúyan ambos triángulos en la computadora para comprobar sus respuestas. 
+
+** Actividad 10
+Dibujen dos segmentos y luego construyan un triángulo rectángulo  utilizando esos dos segmentos como los lados que forman el ángulo recto. 
+
+** Actividad 11
+Construyan un triángulo equilátero. muevan distintos elementos de la figura para analizar los cambios que se producen.
+
+Luego respondan las siguientes preguntas:
+
+- ¿Es cierto que las alturas tienen como extremo el punto medio de cada lado?
+- ¿Cómo los ayuda la computadora a verificar esta propiedad?
+
+
+** Actividad 12
+Realicen en la computadora el siguiente dibujo. 
+[[file:recursos/ryc7mo/triangulo2.png]]
+
+ Respondan las siguientes preguntas:
+
+- ¿Es cierto que el triángulo es isósceles? ¿Por qué?
+
+** Actividad 13
+1. Construyan la figua siguiendo las  instrucciones:
+   - Dibujar un segmento AB y marcar su punto medio M.
+   - Dibujar la circunferencia de centro M y radio MB.
+   - Marcar un punto c en la  circunferencia y los segmentos AC y BC.
+   - Medir los ángulos de los triángulos ACM y MCB.
+   - Ahora muevan el vértice C y analicen los cambios de la figura. Escriban acá sus observaciones.
+2. Respondan:¿Qué elementos se modifican? ¿cómo pueden explicar esa modificación?
+3. Respondan: ¿Es cierto que MC es una altura del triángulo ABC? ¿Por qué?
+
