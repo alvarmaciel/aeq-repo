@@ -43,15 +43,15 @@ Construyan las siguientes figuras.
 
 ### Actividad 6
 
-1. Dibujen un segmento y construyan un ángulo de 60º usando ese segmento como lado.
+1. Dibujen un segmento y construyan un ángulo de 60° usando ese segmento como lado.
 2. Registren los comandos que utilizaron para la construcción
 
 
 ### Actividad 7
 
 1. Dibujen un segmento AB.
-2. Con vértice en A construyan un ángulo de 90º, usando como lado el segmento AB.
-3. Sobre el dibujo anterior construyan un ángulo de 60º que tenga al segmento AB como lado y vértice b.
+2. Con vértice en A construyan un ángulo de 90°, usando como lado el segmento AB.
+3. Sobre el dibujo anterior construyan un ángulo de 60° que tenga al segmento AB como lado y vértice b.
 4. Registren los comandos que utilizaron para la construcción.
 
 
