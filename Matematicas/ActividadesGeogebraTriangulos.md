@@ -19,6 +19,7 @@ Construir un dibujo en la computadora, siguiendo estas instrucciones:
 Esta actividad puede ser usada como rompehielos para explorar el programa.
 Hay varias formas de construir este dibujo pero escasas las que permiten consevar la relación entre el segmento AB y el radio de la circunferencia.
 #### resoluciones posibles
+
 1. Segmento de longitud fija + circunferencia dado su radio
    1. Segmento de longitud fija
    2. Circunfrencia dado su centro y su radio
@@ -46,11 +47,13 @@ Construyan las siguientes figuras.
 #### resoluciones posibles
 
 **Figura 1:**
+
 1. Circunferencia dados su centro y uno de sus puntos (esta opción permite conservar el centro)
 2. Circunferencia dado su centro y su radio (esta opción permite controlar ademas del centro la relación de las circunferencias entre si)
 3. Compás (invierte la realción en la construcción, primero se ha de indicar el radio indicando el segmento o marcando los puntos del radio y luego el centro)
 
 **Figura 2:**
+
 1. 
    1. Segmento entre dos puntos (usando ALT para que la linea sea paralela al eje X)
    2. punto medio para marcar los medios y cuartos del segmento
@@ -73,9 +76,11 @@ Construyan las siguientes figuras.
 3. Indiquen acá los pasos que hicieron para realizar la actividad.
 
 ### Comentarios
+
 Esta actividad esta  centrada en las noocinoes de construcción de rectas, paralelas y perpendiculares. Ahora bien, dado que indica claramente los nombres de los puntos de referencia, tendrán que utilizar la opción **renombra** para que la figura sea una reproducción fiel del mensaje
 
 #### Resoluciones posibles
+
 1. *Recta que pasa por dos puntos*
 2. *Punto* C
 3. *Punto* D
@@ -91,6 +96,9 @@ Esta actividad esta  centrada en las noocinoes de construcción de rectas, paral
 
 2. Muevan los vétices del triángulo y analicen por qué cambian algunos elementos y otros no.
 
+### Comentarios
+
+Esta actividad demanda una buena puesta en común y se presenta como una oportunidad de sistematización.
 
 ### Actividad 5
 
