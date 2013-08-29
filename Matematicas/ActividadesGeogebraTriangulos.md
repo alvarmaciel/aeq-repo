@@ -97,7 +97,7 @@ Esta actividad esta  centrada en las noocinoes de construcción de rectas, paral
 2. Muevan los vétices del triángulo y analicen por qué cambian algunos elementos y otros no.
 
 ### Comentarios
-
+O
 Esta actividad demanda una buena puesta en común y se presenta como una oportunidad de sistematización.
 
 ### Actividad 5
