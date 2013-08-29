@@ -97,8 +97,8 @@ Esta actividad esta  centrada en las noocinoes de construcción de rectas, paral
 2. Muevan los vétices del triángulo y analicen por qué cambian algunos elementos y otros no.
 
 ### Comentarios
-O
-Esta actividad demanda una buena puesta en común y se presenta como una oportunidad de sistematización.
+
+Esta actividad demanda una buena puesta en común y se presenta como una oportunidad de sistematización de algunas propiedades de los triángulos. Cabe esperar que la reproducción se haga de distintas maneras, cada una de esas maneras puede ser utilizada para analizar las propiedades triangulares. Se puede construir una tabla de dos columnas con las observaciones de lo que ocurre y de la forma en que fue construida la figura.
 
 ### Actividad 5
 
