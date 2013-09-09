@@ -1,10 +1,4 @@
-#+LANGUAGE: en
-#+BEGIN_abstract
-  Págnas y recursos on-line
-#+END_abstract
 #+LATEX: \tableofcontents
-#+LATEX: \listoftables
-#+LATEX: \listoffigures
 * Páginas interactivas
 ** Historietas y Comics
 *** Generadores
