@@ -5,9 +5,11 @@ Referencias:
 en *cursiva* se indican los comandos de geogebra
 
 ## Secuencia con comentarios y resoluciones posibles
-a) Dibujá un segmento. Ese segmento es uno de los lados de un cuadrado. Construí el cuadrado. Mové uno de sus vértices azules, ¿sigue siendo un cuadrado?
-b) Dibujá un segmento. Ese segmento es uno de los lados de un rombo. Construí el rombo. Mové uno de sus vértices azules, ¿sigue siendo un rombo?
-c) Rectángulo paralelogramo etc.
+1. Dibujá un segmento. Ese segmento es uno de los lados de un cuadrado. Construí el cuadrado. Mové uno de sus vértices azules, ¿sigue siendo un cuadrado?
+2.  Dibujá un segmento. Ese segmento es uno de los lados de un rombo. Construí el rombo. Mové uno de sus vértices azules, ¿sigue siendo un rombo?
+3. Rectángulo paralelogramo etc.
+
+
 El del cuadrado recupera el uso de perpendicular. Después de que lo hayan hecho podemos mostrar la herramienta polígono regular. En el del rombo hay dos posibilidades: hacerlo como hicieron el equilátero y hacerlo usando paralela y ciricnferencia. Si van por el lado del equilátero (dos equiláteros) no se ve que se puede ir variando los ángulos, cuestión que puede analizarse con la otra construcción. Vale la pena analizar la diferencia de que en un caso el ángulo está fijo (cuestión que se discutió a propósito de los triángulos) y en el otro no.
 
 ## Secuencia para trabajar cuadriláteros
