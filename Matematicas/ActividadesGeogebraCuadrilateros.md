@@ -51,7 +51,7 @@ Anoten en qué casos pudieron hacer las transformaciones y cómo lo lograron.
 
 9. Copien el dibujo y complétenlo para que se forme un rectángulo.
 
-![rectangulo](http://farm6.staticflickr.com/5542/9732520820_2ebee7c329_o_d.jpg "rectangulo")
+	![rectangulo](http://farm6.staticflickr.com/5542/9732520820_2ebee7c329_o_d.jpg "rectangulo")
 
 
 	1. Anoten como hicieron para copiarlo y terminar la construcción
