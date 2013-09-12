@@ -1,3 +1,4 @@
+#+OPTIONS: toc:2 
 * Páginas interactivas
 ** Historietas y Comics
 *** Generadores
