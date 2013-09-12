@@ -29,3 +29,7 @@
 - 
 * Juegos online
 - [[file:juegos/ResolverMisterios.md][Juegos de Misterios]]
+* Tours Virtuales
+** Castillos
+- http://www.eileandonancastle.com/visita-virtual.htm
+- http://www.sphericalimages.com/warwickcastle/
