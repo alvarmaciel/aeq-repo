@@ -102,6 +102,8 @@
 
 -   <http://www.sphericalimages.com/warwickcastle/>
 
+-   <http://www.peracensemedieval.com/visita_peracense_medieval.htm>
+
 # Páginas informativas
 
 ## Castillos
