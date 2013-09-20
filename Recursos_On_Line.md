@@ -29,6 +29,7 @@
 <li><a href="#sec-5">5. Páginas informativas</a>
 <ul>
 <li><a href="#sec-5-1">5.1. Castillos</a></li>
+<li><a href="#sec-5-2">5.2. Control Parental</a></li>
 </ul>
 </li>
 </ul>
@@ -111,3 +112,7 @@
 -   <http://www.mejoresdelmundo.com/castillos-medievales-los-diez-mejores>
 
 -   <http://listas.20minutos.es/lista/los-pueblos-medievales-mas-bonitos-de-europa-368807/>
+
+## Control Parental
+
+-   <http://www.atareao.es/ubuntu/control-parental-con-firefox/>
