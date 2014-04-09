@@ -1,4 +1,4 @@
 aeq-repo
 ========
 
-Repositorio de estrategias e ideas
+[Contenido movido y actualizado en repo textos](https://github.com/alvarmaciel/textos)
